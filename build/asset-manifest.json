@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aarthireacthosting/static/css/main.e7720ab7.css",
+    "main.js": "/aarthireacthosting/static/js/main.8e2527cf.js",
+    "index.html": "/aarthireacthosting/index.html",
+    "main.e7720ab7.css.map": "/aarthireacthosting/static/css/main.e7720ab7.css.map",
+    "main.8e2527cf.js.map": "/aarthireacthosting/static/js/main.8e2527cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.8e2527cf.js"
+  ]
+}
