@@ -49,7 +49,7 @@ export const Hform=()=>{
                  <label><h3><i>Main Item</i></h3></label>
                  <br/><input type="radio" name="foodname" onChange={yet} value="Chicken Briyani" />Chicken Briyani<br/>
                  <input type="radio" name="foodname" onChange={yet} value="Mutton Briyani" className="mb-3"/>Mutton Briyani<br/>
-                 <img src="pictures/briyani4.jpg" alt="rendu rendu naalu "/> 
+                 <img src="pictures/briyani.jpg" alt="rendu rendu naalu "/> 
                  
              </div>
              <div className="form-group ">
